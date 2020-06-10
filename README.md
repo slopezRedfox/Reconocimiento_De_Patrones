@@ -6,4 +6,6 @@ GitHub del curso de reconocimiento de patrones del Instituto Tecnológico de Cos
 
 * **Tarea 1:** Manipulación de DataFrames haciendo uso de bibliotecas de python. Además de introducción a uso basico de Google Colab
 
-![Logo](https://github.com/slopezRedfox/Reconocimiento_De_Patrones/blob/master/ReadMe_Images/logo.gif)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/slopezRedfox/Reconocimiento_De_Patrones/blob/master/ReadMe_Images/logo.gif">
+</p>
