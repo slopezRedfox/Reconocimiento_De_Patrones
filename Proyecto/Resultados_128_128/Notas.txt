@@ -1,0 +1,2 @@
+Duración de 15 horas
+GPU trabajando al 42% en promedio 
