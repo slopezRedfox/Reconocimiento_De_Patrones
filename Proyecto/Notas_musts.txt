@@ -1,0 +1,16 @@
+plot neuronal net
+
+1- Notebook, aprovechar las explicaciones
+	Cometar lo más posible
+2- Hacer algo como un 8x 27 de imagenes
+	que compare originales con sinteticas
+	Toda la hoja
+3- Alcanzar el punto optimo que el stop de 
+	la arquitecuta
+4- Explicar en terminos comprensibles
+5- Explicar la manera de como se llego al punto
+	optimo
+
+Plus
+
+Usar libreria de latex como un anexo
